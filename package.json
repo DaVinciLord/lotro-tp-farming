@@ -1,7 +1,7 @@
 {
   "name": "lotro-tp-farming",
   "version": "1.0.1",
-  "private": true,
+  "private": false,
   "homepage": "https://davincilord.github.io/lotro-tp-farming",
   "repository": {
     "type": "git",
