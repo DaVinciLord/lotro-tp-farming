@@ -9,7 +9,7 @@ class App extends Component {
             <div className="App container-fluid">
                 <div className="App-header">
                     <img src={logo} className="App-logo" alt="logo"/>
-                    <h2>LOTRO TP Farming Guide</h2>
+                    <h2>LOTRO TP Farming Guide T</h2>
                 </div>
 
                 <div>
